@@ -39,7 +39,7 @@
 
 ![Home Page Screenshot][homepage-screenshot]
 
-Cognify AI is a sophisticated AI agent that can load, analyze, and parse PDF files, and engage in real-time conversations with users. 
+Cognify AI is a sophisticated agent that can load, analyze, and parse PDF files, and engage in real-time conversations with users. 
 
 Cognify is a combined term, created by combining "cognition" and "amplify". It is used to convey the idea of "enhancing cognition" and "boosting intelligence."
 
