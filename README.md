@@ -79,7 +79,7 @@ The user must first upload one or more PDFs, and then they can ask the agent que
           <img src="Images/Ask inrelevant question.png" alt="Crime Page" style="margin-right: 10px;">
           </a>
           <figcaption style="text-align: center; margin-top: 5px;">
-            Agent will only answer the question(s) related to the file(s).
+            Agent only answers the question(s) related to the file(s).
           </figcaption>
         <p style="margin: 0; height: 20px;">&nbsp;</p>
         <li>Real-time interactions</li>
